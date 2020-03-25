@@ -1,4 +1,4 @@
-impotr java.until.Scanner;
+import java.until.Scanner;
 
 public class InputOutput{
  public static void main(String [] args){
